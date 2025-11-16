@@ -26,6 +26,7 @@
 
 /* Service section */
 #services{
+    margin: 5px 15px;
     flex-direction: column;
 
 }
@@ -57,6 +58,7 @@
 /* utility classes */
 
 .h-primary{
+    font-family: "Bree Serif", serif;
     font-size: 28px;
 }
 
