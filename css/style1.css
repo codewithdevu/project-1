@@ -4,6 +4,12 @@
     flex-direction: column;
 }
 
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0 7px;
+    padding-bottom: 8px;
+}
+
 /* Home section */
 #home{
     height: 280px;
@@ -12,12 +18,6 @@
 
 #home::before{
     height: 480px;
-}
-
-#home ul li a{
-    font-size: 1rem;
-    padding: 0 7px;
-    padding-bottom: 8px;
 }
 
 #home p{
